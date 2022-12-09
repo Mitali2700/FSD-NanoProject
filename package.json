@@ -1,0 +1,22 @@
+{
+  "name": "nano_project",
+  "version": "1.0.0",
+  "description": "Nano project for FSD .",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitali2700/FSD-NanoProject.git"
+  },
+  "author": "Shriya, Isha, Mitali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitali2700/FSD-NanoProject/issues"
+  },
+  "homepage": "https://github.com/Mitali2700/FSD-NanoProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
