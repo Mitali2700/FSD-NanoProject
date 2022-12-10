@@ -44,7 +44,7 @@ app.post("/", function(req, res){
    
    })
    
-   // We commit this send because due to this send, send at the upper part is not working and also giving error at hyper terminal.
+   // We commented this send because due to this send, send at the upper part was not working and was also giving error at hyper terminal.
    //res.send("Server is up and running.")
 })
 
